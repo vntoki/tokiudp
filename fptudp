@@ -26,9 +26,9 @@ udp://@225.1.2.166:30120
 
 #EXTINF:-1 tvg-id="vtv9hd" tvg-name="VTV9 HD" tvg-logo="https://static.megavie.live/media/vtv9hd.jpg" group-title="VTV",VTV9 HD
 udp://@225.1.1.128:30120
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/1SFC75J.png" group-title="VTV",QPVN HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quoc-phong-vn_145673312681.jpg" group-title="VTV",QPVN HD
 udp://@225.1.2.217:30120
-#EXTINF:-1 tvg-id="" tvg-logo="http://103.56.158.185/tv_icon/quoc-hoi-hd.png" group-title="VTV",Quốc Hội HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quoc-hoi-hd_145578230854.png" group-title="VTV",Quốc Hội HD
 udp://@225.1.2.148:30120
 #EXTINF:-1 tvg-id="" tvg-logo="http://103.56.158.185/tv_icon/nhandan.png" group-title="VTV",NHÂN DÂN HD
 udp://@225.1.1.91:30120
