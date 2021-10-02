@@ -142,14 +142,8 @@ udp://@225.1.2.25:30120
 udp://@225.1.2.233:30120
 #EXTINF:-1 tvg-id="CINEMAX HD" tvg-logo="http://htvc.vn/uploads/channel/2017/02/06/9740642-logo-max-by-hbo.png" group-title="QUOC TE",CINEMAX HD
 udp://@225.1.2.86:30120
-#EXTINF:-1 tvg-id="FOX Movies HD" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1515739984/cmc_new/img.live_channel/0/0/0/0/219.jpg" group-title="QUOC TE",FOX Movies HD
-udp://@225.1.2.239:30120
-#EXTINF:0 tvg-id="Fox Family Movies HD" tvg-logo="https://i.ibb.co/pWH035s/Fox-Family-BEARTV.png",FOX FAMILY MOVIE HD
-udp://@225.1.1.140:30120
 #EXTINF:-1 tvg-id="AXN HD" tvg-logo="http://i.imgur.com/Pi3AFTe.png" group-title="QUOC TE",AXN HD
 udp://@225.1.2.225:30120
-#EXTINF:-1 group-title="QUOC TE",FX HD
-udp://@225.1.1.213:30120
 #EXTINF:-1 group-title="QUOC TE",DREAMWORKS
 udp://@225.1.1.136:30120
 #EXTINF:-1 group-title="QUOC TE",Animax HD
@@ -160,8 +154,6 @@ udp://@225.1.1.134:30120
 udp://@225.1.1.139:30120
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.postimg.org/4mte49l8j/cinemaworld.png" group-title="QUOC TE",Cinema World HD
 udp://@225.1.1.142:30120
-#EXTINF:-1 tvg-id="" tvg-logo="http://1ttv.org/uploads/Pl8S60EJ52htHxi1gAw1SS1y8i1p3z.png" group-title="QUOC TE",FOX HD
-udp://@225.1.1.51:30120
 #EXTINF:-1 tvg-id="Kix HD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/729_300.png" group-title="QUOC TE",KIX HD
 udp://@225.1.2.144:30120
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Blue_ant_entertainment_logo.png/220px-Blue_ant_entertainment_logo.png" group-title="QUOC TE",BLUE ANT ENTERTAINMENT HD
@@ -173,12 +165,8 @@ udp://@225.1.1.204:30120
 udp://@225.1.2.231:30120
 #EXTINF:-1 tvg-id="" tvg-logo="https://s9.postimg.org/x8sri04nj/babytv.jpg" group-title="QUOC TE",BabyTV HD
 udp://@225.1.2.146:30120
-#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://s13.postimg.org/4hex6o56v/disney.png" group-title="QUOC TE",DISNEY CHANNEL HD
-udp://@225.1.2.18:30120
 #EXTINF:-1 tvg-id="DaVinci HD" tvg-logo="https://static.megavie.live/media/davinci.png" group-title="QUOC TE",DaVinci HD
 udp://@225.1.1.197:30120
-#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="https://s17.postimg.org/hwdjjrwkv/disneyjr.png" group-title="QUOC TE",DISNEY JUNIOR
-udp://@225.1.1.233:30120
 #EXTINF:-1 tvg-id="" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/06/05/222169-boom.png" group-title="QUOC TE",BOOMERANG
 udp://@225.1.4.16:30120
 #EXTINF:-1 tvg-id="" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/09/06/757503-babyfirst_1.png" group-title="QUOC TE",BABYFIRST HD
@@ -203,9 +191,6 @@ udp://@225.1.2.21:30120
 udp://@225.1.2.24:30120
 #EXTINF:-1 tvg-id="" tvg-logo="https://s30.postimg.org/4qv9swq1d/bbclife.jpg" group-title="QUOC TE",BBC LifeStyle
 udp://@225.1.2.52:30120
-#EXTINF:-1 tvg-id="FOX Life HD" tvg-logo="https://s1.postimg.org/91wmxqhsu7/foxlife.png" group-title="QUOC TE",Fox Life HD
-udp://@225.1.2.237:30120
-
 #EXTINF:-1 tvg-id="BBC World News" tvg-logo="https://s24.postimg.org/q8v24y35h/bbcworldnews.png" group-title="QUOC TE",BBC WORLD NEWS
 udp://@225.1.2.74:30120
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1000px-CNBC_logo.svg.png" group-title="QUOC TE",CNBC
@@ -239,13 +224,6 @@ udp://@225.1.1.245:30120
 udp://@225.1.2.227:30120
 #EXTINF:-1 tvg-id="Fashion TV" tvg-logo="http://i.imgur.com/IeuIsMr.png" group-title="QUOC TE",Fashion TV UHD
 udp://@225.1.2.232:30120
-#EXTINF:-1 tvg-id="Fox Sports HD" tvg-logo="http://i.imgur.com/1yIIQcm.png" group-title="QUOC TE",Fox Sports HD
-udp://@225.1.2.229:30120
-#EXTINF:-1 tvg-id="Fox Sports 2" tvg-logo="http://i.imgur.com/TPL8d6Y.png" group-title="QUOC TE",Fox Sports 2 HD
-udp://@225.1.1.141:30120
-#EXTINF:-1 tvg-id="Fox Sports 3" tvg-logo="https://s9.postimg.cc/ytmtdf1wf/foxsports3.png" group-title="QUOC TE",Fox Sports 3 HD
-udp://@225.1.2.242:30120 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-giang_145578965891.png" group-title="DIA PHUONG",CAO BẰNG
 udp://@225.1.1.102:30120
 #EXTINF:-1 tvg-id="Ha Giang" tvg-logo="https://s11.postimg.org/y1ijz2a83/hagiang.jpg" group-title="DIA PHUONG",HA GIANG
