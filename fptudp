@@ -26,7 +26,7 @@ udp://@225.1.2.166:30120
 #EXTINF:0 tvg-id="vtv9hd"group-title="VTV" tvg-logo="https://i.ibb.co/6bFVqfq/VTV9-HD-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV9 HD
 #EXTVLCOPT:http-user-agent="BearTV"
 udp://@225.1.1.128:30120
-#EXTINF:-1 group-title="Địa phương" tvg-logo="http://103.56.158.185/tv_icon/thai-binh.png",Thái Bình
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Logo_TBTV_Th%C3%A1i_B%C3%ACnh.png",Thái Bình
 udp://@225.1.1.99:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quoc-phong-vn_145673312681.jpg",QPVN HD
 udp://@225.1.2.217:30120
