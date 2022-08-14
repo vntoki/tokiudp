@@ -295,7 +295,7 @@ udp://@225.1.1.149:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="../Channel/Logo/Waves (spbtv).png",BTV3 HD
 udp://@225.1.2.22:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="http://103.56.158.185/tv_icon/imovie-hd.png",BTV4 HD
-udp://@225.1.1.30:30120
+udp://@225.1.1.29:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="http://103.56.158.185/tv_icon/dong-nai-1.png",Đồng Nai 1
 udp://@225.1.1.152:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="http://103.56.158.185/tv_icon/dong-nai-2.png",Đồng Nai 2
