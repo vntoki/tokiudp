@@ -14,7 +14,7 @@ udp://@225.1.2.20:30120
 #EXTINF:0 tvg-id="vtv5hd"group-title="VTV" tvg-logo="http://trada.info/tv/logos/vtv5hd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV5 HD
 #EXTVLCOPT:http-user-agent="BearTV"
 udp://@225.1.1.131:30120
-#EXTINF:0 tvg-id="vtvct"group-title="VTV" tvg-logo="http://trada.info/tv/logos/vtvct.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV Cần Thơ
+#EXTINF:0 tvg-id="vtvct"group-title="VTV" tvg-logo="https://i.ibb.co/8cghHq1/vtv-cantho-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV Cần Thơ
 #EXTVLCOPT:http-user-agent="BearTV"
 udp://@225.1.2.245:30120
 #EXTINF:0 tvg-id="vtv7hd"group-title="VTV" tvg-logo="http://trada.info/tv/logos/vtv7hd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8,VTV7 HD
@@ -28,6 +28,11 @@ udp://@225.1.2.166:30120
 udp://@225.1.1.128:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Logo_TBTV_Th%C3%A1i_B%C3%ACnh.png",Thái Bình
 udp://@225.1.1.99:30120
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.ibb.co/Hnc1LPG/VTV5-TNB-BEARTV.png" ,VTV5 TÂY NAM BỘ
+udp://@225.1.3.137:30120
+#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.ibb.co/rZTRD44/FIM360-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",SCTV6 - Fim 360
+#EXTVLCOPT:http-user-agent="BearTV"
+udp://@225.1.3.34:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quoc-phong-vn_145673312681.jpg",QPVN HD
 udp://@225.1.2.217:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quoc-hoi-hd_145578230854.png",Quốc Hội HD
@@ -40,8 +45,8 @@ udp://@225.1.1.43:30120
 udp://@225.1.2.169:30120
 #EXTINF:-1 group-title="Hanoicab" tvg-logo="http://i.imgur.com/kFSFBHp.png",Hà Nội 1
 udp://@225.1.2.186:30120
-#EXTINF:-1 group-title="Hanoicab" tvg-logo="http://i.imgur.com/JHYNvNs.png",Hà Nội 2
-udp://@225.1.1.125:30120
+#EXTINF:0 tvg-id="vovtv" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/TMVw5Hw/VOV-BEARTV.png",VOV TV
+udp://@225.1.4.220:30120
 #EXTINF:-1 group-title="Hanoicab" tvg-logo="http://i.imgur.com/7uqtQEM.png",YOU HanoiCab2
 udp://@225.1.1.207:30120
 #EXTINF:-1 group-title="HTV" tvg-logo="http://i.imgur.com/XWtxYdm.png",HTV1
@@ -73,7 +78,7 @@ udp://@225.1.1.166:30120
 #EXTINF:-1 group-title="HTV" tvg-logo="https://s14.postimg.org/nm0o00v41/htvcshop.png",HTVC SHOPPING
 udp://@225.1.1.172:30120
 #EXTINF:-1 group-title="HTV",HTVC Ca Nhạc HD
-udp://@225.1.4.92:30120
+udp://@225.1.3.97:30120
 #EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/HC5iUuK.png",VTC1 HD
 udp://@225.1.2.254:30120
 #EXTINF:-1 group-title="VTC" tvg-logo="http://i.imgur.com/2MwvQXo.png",VTC2
