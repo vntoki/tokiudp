@@ -124,7 +124,7 @@ http://192.168.1.200:4000/udp/225.1.1.235:30120
 #EXTINF:-1 group-title="Địa phương",THVL4 HD
 http://192.168.1.200:4000/udp/225.1.2.25:30120
 #EXTINF:-1 group-title="QUOC TE" tvg-logo="http://xemtvhd.net/images/icon-channel/hbohd.png",HBO HD
-http://192.168.1.200:4000/udp/225.1.2.233:30120
+http://192.168.1.200:4000/udp/225.1.4.90:30120
 #EXTINF:-1 group-title="QUOC TE" tvg-logo="http://htvc.vn/uploads/channel/2017/02/06/9740642-logo-max-by-hbo.png",CINEMAX HD
 http://192.168.1.200:4000/udp/225.1.2.86:30120
 #EXTINF:-1 group-title="QUOC TE" tvg-logo="http://i.imgur.com/Pi3AFTe.png",AXN HD
