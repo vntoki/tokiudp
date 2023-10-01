@@ -1,29 +1,29 @@
-#EXTM3U url-tvg="http://trada.info/epg.xml"
-#EXTINF:0 tvg-id="vtv1hd"group-title="VTV" tvg-logo="http://trada.info/tv/logos/vtv1hd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1 HD        
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+#EXTINF:0 tvg-id="vtv1hd"group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv1hd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1 HD        
 #EXTVLCOPT:http-user-agent="BearTV"
 udp://@225.1.2.249:30120
-#EXTINF:0 tvg-id="vtv2hd"group-title="VTV" tvg-logo="http://trada.info/tv/logos/vtv2hd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV2 HD 
+#EXTINF:0 tvg-id="vtv2hd"group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv2hd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV2 HD 
 #EXTVLCOPT:http-user-agent="BearTV"
 udp://@225.1.2.13:30120
-#EXTINF:0 tvg-id="vtv3hd"group-title="VTV" tvg-logo="http://trada.info/tv/logos/vtv3hd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV3 HD         
+#EXTINF:0 tvg-id="vtv3hd"group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv3hd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV3 HD         
 #EXTVLCOPT:http-user-agent="BearTV"
 udp://@225.1.2.247:30120
-#EXTINF:0 tvg-id="vtv4hd"group-title="VTV" tvg-logo="http://trada.info/tv/logos/vtv4hd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV4 HD        
+#EXTINF:0 tvg-id="vtv4hd"group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv4hd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV4 HD        
 #EXTVLCOPT:http-user-agent="BearTV"
 udp://@225.1.2.20:30120
-#EXTINF:0 tvg-id="vtv5hd"group-title="VTV" tvg-logo="http://trada.info/tv/logos/vtv5hd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV5 HD
+#EXTINF:0 tvg-id="vtv5hd"group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv5hd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV5 HD
 #EXTVLCOPT:http-user-agent="BearTV"
 udp://@225.1.1.131:30120
 #EXTINF:0 tvg-id="vtvct"group-title="VTV" tvg-logo="https://i.ibb.co/8cghHq1/vtv-cantho-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV Cần Thơ
 #EXTVLCOPT:http-user-agent="BearTV"
 udp://@225.1.2.245:30120
-#EXTINF:0 tvg-id="vtv7hd"group-title="VTV" tvg-logo="http://trada.info/tv/logos/vtv7hd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8,VTV7 HD
+#EXTINF:0 tvg-id="vtv7hd"group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv7hd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8,VTV7 HD
 #EXTVLCOPT:http-user-agent="BearTV"
 udp://@225.1.2.96:30120
-#EXTINF:0 tvg-id="vtv8hd"group-title="VTV" tvg-logo="http://trada.info/tv/logos/vtv8hd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV8 HD
+#EXTINF:0 tvg-id="vtv8hd"group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv8hd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV8 HD
 #EXTVLCOPT:http-user-agent="BearTV"
 udp://@225.1.2.166:30120
-#EXTINF:0 tvg-id="vtv9hd"group-title="VTV" tvg-logo="http://trada.info/tv/logos/vtv9hd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV9 HD
+#EXTINF:0 tvg-id="vtv9hd"group-title="VTV" tvg-logo="https://img.lichphatsong.xyz/logo/vtv9hd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV9 HD
 #EXTVLCOPT:http-user-agent="BearTV"
 udp://@225.1.1.128:30120
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Logo_TBTV_Th%C3%A1i_B%C3%ACnh.png",Thái Bình
